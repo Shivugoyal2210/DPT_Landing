@@ -13,6 +13,7 @@ export default function Home() {
               width={150}
               height={150}
               priority
+              unoptimized
             />
           </div>
           {/*<div className="logo-divider" />*/}
