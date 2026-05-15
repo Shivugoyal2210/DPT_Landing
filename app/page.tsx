@@ -8,7 +8,7 @@ export default function Home() {
         <div className="logo-row">
           <div className="logo-dpt">
             <Image
-              src="/DPT_logo.png"
+              src="/dpt_logo.png"
               alt="DPT"
               width={150}
               height={150}
