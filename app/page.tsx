@@ -34,9 +34,7 @@ export default function Home() {
         {/* Headline + subtitle */}
         <div className="headline-block">
           <h1 className="headline">SITE UNDER CONSTRUCTION.</h1>
-          <p className="subtitle">
-            A partnership in grid infrastructure. Launching soon.
-          </p>
+          <p className="subtitle">Launching soon.</p>
         </div>
       </main>
 
