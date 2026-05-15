@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(frontend-design:frontend-design)",
+      "Bash(cp \"D:/Programs/dpt_landing/dpt-landing/assets/logos/G&W_Electric_Corp_PMS.ai\" \"/tmp/gw.pdf\")",
+      "Bash(pdftocairo -png -singlefile -r 300 \"/tmp/gw.pdf\" \"/tmp/gw\")",
+      "Bash(ls -la /tmp/gw*)",
+      "Bash(npx eslint *)",
+      "Skill(frontend-design)",
+      "PowerShell(npm run *)"
+    ]
+  }
+}
